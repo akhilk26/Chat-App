@@ -3,6 +3,8 @@
 A real-time chat application built with **Flutter** and **Firebase**, 
 supporting instant messaging across multiple devices.
 
+🌐 **Live Demo:** https://chatapp-40b91.web.app
+
 ## ✨ Features
 - 🔐 Email & Password Authentication
 - 💬 Real-time messaging with instant sync
@@ -19,11 +21,6 @@ supporting instant messaging across multiple devices.
 | Cloud Firestore | Real-time database |
 
 ## 🚀 Getting Started
-
-### Prerequisites
-- Flutter SDK
-- Firebase account
-- Android Studio / VS Code
 
 ### Installation
 1. Clone the repository
